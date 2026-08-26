@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Syed Muhammed Ahmed, a Computer Science undergraduate at NED University of Engineering & Technology, Karachi. I have a strong interest in Data Science and Machine Learning, and I am continuously learning and working on improving my analytical and problem-solving skills in this domain.
+I am Syed Muhammad Ahmed, a Computer Science undergraduate at NED University of Engineering & Technology, Karachi. I have a strong interest in Data Science and Machine Learning, and I am continuously learning and working on improving my analytical and problem-solving skills in this domain.
 
 
 ## 🌐 Socials:
